@@ -17,6 +17,7 @@ Live site : https://omarhazem02.github.io/personal-website/
 - Animations (CSS transitions & keyframes)
 
 ## 📸 Preview
-[]![webpage screenshot](webpage-screenshot-desktop.png)
 
 
+
+| <img src="webpage-desktop-screenshot.jpg" width="600"/> | <img src="webpage-phone-screenshot.jpg" width="250"/> |
