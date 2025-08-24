@@ -20,4 +20,4 @@ Live site : https://omarhazem02.github.io/personal-website/
 
 
 
-| <img src="webpage-desktop-screenshot.jpg" width="600"/> | <img src="webpage-phone-screenshot.jpg" width="250"/> |
+ <img src="webpage-desktop-screenshot.jpg" width="600"/>  <img src="webpage-phone-screenshot.jpg" width="250"/> 
